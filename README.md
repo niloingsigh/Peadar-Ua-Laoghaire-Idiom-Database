@@ -1,4 +1,4 @@
-# Peadar-Laoghaire-Idiom-Database
+# Peadar-Ua-Laoghaire-Idiom-Database
 
 The collection of idioms presented in this database is the result of PhD research undertaken by Katie Ní Loingsigh in [Fiontar & Scoil na Gaeilge](https://www.dcu.ie/fiontar_scoilnagaeilge/gaeilge/index.shtml), DCU. The database contains idioms from the published work of [An tAthair Peadar Ó Laoghaire](https://www.ainm.ie/Bio.aspx?ID=210)/[Canon Peter O’Leary (1839-1920)](https://www.dib.ie/biography/o-laoghaire-peadar-tathair-peadar-oleary-peter-a6390). There are 420 idioms recorded in their baseform or canonical form. Each idiom is accompanied by a concise definition and a corresponding URL link to the online database. The semantic class of each idiom is also provided.
 

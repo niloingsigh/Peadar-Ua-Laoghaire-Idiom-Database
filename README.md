@@ -5,7 +5,7 @@ The collection of idioms presented in this database is the result of PhD researc
 The structure and design principles of the database are described in this publication:
 >Ní Loingsigh, K. & Ó Raghallaigh, B. (2016). 'Starting from scratch – the creation of an Irish-language idiom database', *Proceedings of the 17th EURALEX International Congress, Tbilisi, Georgia, 6-10 September 2016*, pp.726-734. Available from: https://euralex.org/publications/starting-from-scratch-the-creation-of-an-irish-language-idiom-database/.
 
-When using this data, please cite the above paper (Ní Loingsigh & Ó Raghallaigh 2016) and include the following copyright statement:
+When using this data, please cite the above paper [(Ní Loingsigh & Ó Raghallaigh 2016)](https://euralex.org/publications/starting-from-scratch-the-creation-of-an-irish-language-idiom-database/) and include the following copyright statement:
 
 "Data © Dublin City University and licenced under CC BY-NC-SA 4.0."
 

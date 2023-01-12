@@ -7,7 +7,7 @@ The structure and design principles of the database are described in this public
 
 When using this data, please cite the above paper [(Ní Loingsigh & Ó Raghallaigh 2016)](https://euralex.org/publications/starting-from-scratch-the-creation-of-an-irish-language-idiom-database/) and include the following copyright statement:
 
-"Peadar Ua Laoghaire Idiom Data © Dublin City University and licenced under CC BY-NC-SA 4.0."
+"Peadar Ua Laoghaire Idiom Data © Dublin City University and licensed under CC BY-NC-SA 4.0."
 
 Katie Ní Loingsigh's PhD thesis, [*Tiomsú agus rangú i mbunachar sonraí ar chnuasach nathanna Gaeilge as saothar Pheadair Uí Laoghaire*](https://doras.dcu.ie/21343/), is accessible via [DORAS (DCU Online Research Access Service)](https://doras.dcu.ie/).
 
